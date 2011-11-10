@@ -1,0 +1,7 @@
+{ "name": "dtinth-express-gzip"
+, "version": "0.1.0"
+, "dependencies": {
+    "express": "2.4.7"
+  , "compress": "0.1.9"
+  }
+}
